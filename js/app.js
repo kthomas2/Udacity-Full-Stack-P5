@@ -5,13 +5,13 @@ var bounds;
 
 // Array of locations shown to the user
 var locations = [
-	{title: 'Richfield Woods Park', location: {lat: 41.2428157, lng: -81.65967259999999}},
-	{title: 'Furnance Run Park', location: {lat: 41.2689311, lng: -81.6393255}},
 	{title: 'Bath Baseball Park', location: {lat: 41.20126339999999, lng: -81.65864169999999}},
-	{title: 'Richfield Heritage Preserve', location: {lat: 41.2491768, lng: -81.67502399999999}},
 	{title: 'Bath Nature Preserve', location: {lat: 41.180979, lng: -81.650083}},
-	{title: 'Summit Metro Parks', location: {lat: 41.12817, lng: -81.542683}},
-	{title: 'Cuyahoga Valley National Park', location: {lat: 41.2808248, lng: -81.56781199999999}}
+	{title: 'Cuyahoga Valley National Park', location: {lat: 41.2808248, lng: -81.56781199999999}},
+	{title: 'Furnance Run Park', location: {lat: 41.2689311, lng: -81.6393255}},
+	{title: 'Richfield Heritage Preserve', location: {lat: 41.2491768, lng: -81.67502399999999}},
+	{title: 'Richfield Woods Park', location: {lat: 41.2428157, lng: -81.65967259999999}},
+	{title: 'Summit Metro Parks', location: {lat: 41.12817, lng: -81.542683}}
   ];
 
 // Data Model
