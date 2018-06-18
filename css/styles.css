@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	font-family: "Helvetica Neue Bold", Roboto, Helvetica, Arial, sans-serif;
+	font-weight: 700;
+}
+
+#map {
+	bottom:0px;
+	height: 100vh;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+}
+
+#pano {
+	width: 200px;
+	height: 200px;
+}
+
+.padding-right {
+	padding-right: 0px;
+}
+
+.padding-left {	
+	padding-left: 0px;
+}
+  
+h3 {
+	font-family: "Helvetica Neue Light", Roboto, Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	color: #00BA22;
+}
+
+.form-control {
+	padding-right: 30px;
+  }
+  
+  .form-control + .glyphicon {
+	position: absolute;
+	right: 0;
+	padding: 8px 27px;
+  }
