@@ -55,6 +55,7 @@ var Location = function(data) {
 
 	// Animate the associated marker when a list item is clicked
 	this.setLocation = function(clickedLocation) {
+		populateInfoWindow(this.marker, largeInfowindow);
 		animateMarker(this.marker);
 	};
 	
